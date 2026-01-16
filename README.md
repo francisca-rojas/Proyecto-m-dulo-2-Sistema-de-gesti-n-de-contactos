@@ -32,7 +32,6 @@ El proyecto está compuesto por los siguientes archivos principales:
 * Python 3
 * Programación Orientada a Objetos (POO)
 * `unittest` (pruebas unitarias)
-* Expresiones regulares (`re`) para validación de datos
 
 ---
 
@@ -42,19 +41,12 @@ El proyecto está compuesto por los siguientes archivos principales:
 
 * Tener **Python 3** instalado en el sistema.
 
-### 2️⃣ Clonar el repositorio
-
-```bash
-git clone https://github.com/tu-usuario/sistema-gestion-contactos.git
-```
-
-### 3️⃣ Entrar a la carpeta del proyecto
+### 2️⃣ Entrar a la carpeta del proyecto
 
 ```bash
 cd sistema-gestion-contactos
 ```
-
-### 4️⃣ Ejecutar el menú interactivo
+### 3️⃣ Ejecutar el menú interactivo
 
 ```bash
 python3 menu_interactivo.py

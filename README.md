@@ -91,7 +91,10 @@ python3 test_sistema_contactos.py
 Si todo está correcto, se mostrará un resultado similar a:
 
 ```
-Ran X tests in Xs
+........
+----------------------------------------------------------------------
+Ran 8 tests in 0.012s
+
 OK
 ```
 

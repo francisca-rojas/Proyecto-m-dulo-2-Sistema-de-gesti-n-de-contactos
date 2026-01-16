@@ -1,6 +1,6 @@
-# 📒 Sistema de Gestión de Contactos
+# Sistema de Gestión de Contactos
 
-## 📌 Descripción
+## Descripción
 
 Sistema de gestión de contactos desarrollado en **Python**, basado en **Programación Orientada a Objetos (POO)** y acompañado de **pruebas unitarias**.
 
@@ -9,7 +9,7 @@ Incluye validaciones para los datos ingresados (nombre, teléfono, correo y dire
 
 ---
 
-## 📂 Organización del proyecto
+## Organización del proyecto
 
 El proyecto está compuesto por los siguientes archivos principales:
 
@@ -27,7 +27,7 @@ El proyecto está compuesto por los siguientes archivos principales:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * Python 3
 * Programación Orientada a Objetos (POO)
@@ -35,18 +35,18 @@ El proyecto está compuesto por los siguientes archivos principales:
 
 ---
 
-## ▶️ Cómo ejecutar el programa
+## Cómo ejecutar el programa
 
-### 1️⃣ Requisitos
+### 1 Requisitos
 
 * Tener **Python 3** instalado en el sistema.
 
-### 2️⃣ Entrar a la carpeta del proyecto
+### 2 Entrar a la carpeta del proyecto
 
 ```bash
 cd sistema-gestion-contactos
 ```
-### 3️⃣ Ejecutar el menú interactivo
+### 3 Ejecutar el menú interactivo
 
 ```bash
 python3 menu_interactivo.py
@@ -54,7 +54,7 @@ python3 menu_interactivo.py
 
 ---
 
-## 🧪 Ejemplo de uso
+## Ejemplo de uso
 
 Al iniciar el programa, se muestra el siguiente menú:
 
@@ -80,7 +80,7 @@ Dirección: Calle 123
 
 ---
 
-## ✅ Ejecutar pruebas unitarias
+## Ejecutar pruebas unitarias
 
 Para verificar el correcto funcionamiento del sistema, ejecuta:
 
@@ -97,6 +97,6 @@ OK
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Francisca Rojas González**
